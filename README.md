@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Utham Kumar 👋</h1>
+<h1 align="center">Hi, I'm Utham Kumar Mohanlal 👋</h1>
 <h3 align="center">Aspiring Data Scientist | MSc Advanced Data Science & AI | Passionate about AI, Time Series, and Real-World Impact</h3>
 
 ---
